@@ -1,0 +1,55 @@
+
+.sec{
+    width: 1170px;
+    margin: auto;
+}
+
+.sec1{
+    width: 30%;
+    margin: auto;
+    height: 400px;
+    text-align: center;
+    background-color: black;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+
+.enterbox{
+    width: 82%;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+    padding: 13px 0px;
+    background-color: #eeeeee;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-left: 14px;
+    margin-top: 15px;
+}
+
+.button{
+    padding: 13px 25px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.bg-color{
+    background-color: #FDD573;
+}
+
+.padding{
+    width: 150px;
+}
+
+.m-left{
+    margin-left: 90px;
+}
