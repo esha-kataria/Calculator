@@ -5,17 +5,17 @@ A simple Calculator for general purposes.
 It's useful for simple calculations.
 
 ## Features
-Add
+* Add
 
-Multiply
+* Multiply
 
-Subtract
+* Subtract
 
-Divide
+* Divide
 
 ## Built With
-HTML
+* HTML
 
-CSS
+* CSS
 
-JAVASCRIPT
+* JAVASCRIPT
